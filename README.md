@@ -1,1 +1,1 @@
-# Many information abbout python
+# Many information about python
